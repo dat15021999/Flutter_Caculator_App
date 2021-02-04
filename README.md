@@ -2,6 +2,7 @@ Mô tả dự án
 * Dự án này là bài tập nhập môn "Ứng dụng di động cho điện toán đám mây".
 
 * Đề tài: Sử dụng Flutter làm ứng dụng máy tính bỏ túi đơn giản với 4 chức năng: Cộng, trừ, nhân, chia.
+
 Cách chạy ứng dụng
 * Bước 1: Clone dự án về máy.
 
@@ -12,3 +13,6 @@ Cách chạy ứng dụng
 * Bước 4: Click chuột phải vào file main.dart trong folder \lib rồi chạy Run.
 
 Ảnh chụp màn hình
+* 
+Thông tin sinh viên:
+* Nguyễn Thành Đạt - 17021184
