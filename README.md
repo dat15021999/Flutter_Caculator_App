@@ -13,7 +13,7 @@ Cách chạy ứng dụng
 * Bước 4: Click chuột phải vào file main.dart trong folder \lib rồi chạy Run.
 
 Ảnh chụp màn hình
-* ![picture](https://github.com/dat15021999/Flutter_Caculator_App/flutter_demo_app.png)
+* <img src="./Flutter_Caculator_App/flutter_demo_app.png">
 
 Thông tin sinh viên:
 * Nguyễn Thành Đạt - 17021184
