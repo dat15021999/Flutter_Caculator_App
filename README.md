@@ -1,7 +1,7 @@
 Mô tả dự án
 * Dự án này là bài tập nhập môn "Ứng dụng di động cho điện toán đám mây".
 
-* Đề tài: Sử dụng Flutter làm ứng dụng máy tính bỏ túi đơn giản với 4 chức năng: Cộng, trừ, nhân, chia.
+* Đề tài: Sử dụng Flutter làm ứng dụng máy tính đơn giản với 4 chức năng: Cộng, trừ, nhân, chia cho 2 số.
 
 Cách chạy ứng dụng
 * Bước 1: Clone dự án về máy.
