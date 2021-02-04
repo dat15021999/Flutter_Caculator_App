@@ -1,10 +1,14 @@
-# Flutter_Caculator_App
-└───lib
-    ├───main.dart
-    
-   
-Chức năng cơ bản:
+#Mô tả dự án
+##Dự án này là bài tập nhập môn "Ứng dụng di động cho điện toán đám mây".
 
-Cộng, trừ, nhân, chia: cho 2 số thực
+##Đề tài: Sử dụng Flutter làm ứng dụng máy tính bỏ túi đơn giản với 4 chức năng: Cộng, trừ, nhân, chia.
+#Cách chạy ứng dụng
+##Bước 1: Clone dự án về máy.
 
-Xóa: xóa tất cả kết quả hiện thị trên màn hình
+##Bước 2: Mở dự án bằng Android Studio.
+
+##Bước 3: Khởi động thiết bị di động và đợi tới khi dự án kết nối với thiết bị.
+
+##Bước 4: Click chuột phải vào file main.dart trong folder \lib rồi chạy Run.
+
+#Ảnh chụp màn hình
